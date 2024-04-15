@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+.menu-item.active {
+    font-weight: bold;
+    color: blue;
+}
